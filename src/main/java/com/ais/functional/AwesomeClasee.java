@@ -6,7 +6,7 @@ public class AwesomeClasee {
 
 	//private static Integer invert(Integer value)
 	//{
-	//	return -value;
+		//return -value;
 	//}
 	
 	public static Integer invertTheNumber(){
@@ -22,4 +22,6 @@ public class AwesomeClasee {
 	{
 		return function.apply(value);
 	}
+
+	
 }
